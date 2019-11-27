@@ -1,7 +1,7 @@
 Kaggle Lyft 3D Object Detection for Autonomous Vehicles
 ====
 
-My solution in this Kaggle competition ["Lyft 3D Object Detection for Autonomous Vehicles"](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles), 23th place.
+My solution in this Kaggle competition ["Lyft 3D Object Detection for Autonomous Vehicles"](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles), 22th place.
 
 ![solution](https://raw.githubusercontent.com/toshi-k/kaggle-3d-object-detection-for-autonomous-vehicles/master/img/concept.png)
 
