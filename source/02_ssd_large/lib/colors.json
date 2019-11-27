@@ -1,0 +1,11 @@
+{
+    "car": [255, 255, 255],
+    "other_vehicle": [255, 0, 0],
+    "pedestrian": [0, 255, 0],
+    "bicycle": [0, 0, 255],
+    "truck": [255, 255, 0],
+    "bus": [0, 255, 255],
+    "motorcycle": [255, 0, 255],
+    "animal": [255, 127, 0],
+    "emergency_vehicle": [0, 255, 127]
+}
